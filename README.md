@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I am Mohit from Bengluru, India
 
-
-- 🔭 I’m currently working on GTO Application
-- 🌱 I’m currently learning ReactJS, Nodejs, System Design
+- 🔭 I’m currently working Enterprise project based on technology ReactJS, Nodejs, SQL and NoSQL DB, Cloud technologies
+- 🌱 I’m currently learning not specific technology just exploring different articles to gain more wider knowledge on technology
 - 💬 Ask me about ReactJS, NodeJS, HTML, CSS, coding challanges
-- 📫 How to reach me: mohitmjjain101@gmail.com
+- 📫 you can reach me: mohitmjjain101@gmail.com
+
 
