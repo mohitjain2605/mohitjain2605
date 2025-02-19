@@ -1,8 +1,6 @@
 ## Hi there 👋, I am Mohit from Bengluru, India
 
-- 🔭 I’m currently working Enterprise project based on technology ReactJS, Nodejs, SQL and NoSQL DB, Cloud technologies
-- 🌱 I’m currently learning not specific technology just exploring different articles to gain more wider knowledge on technology
-- 💬 We can Discuss on ReactJS, NodeJS, HTML, CSS, coding challanges, Cloud, AWS
-- 📫 you can reach me: mohitmjjain101@gmail.com
-
-
+- 🔭 Enterprise Projects: Working on enterprise projects is no small feat! Diving into technologies like ReactJS and Node.js can be quite rewarding, and you’re probably solving some really interesting challenges along the way.
+- 🌱 Learning: Kudos to you for staying curious and always seeking knowledge. The tech world evolves at lightning speed, and keeping yourself updated with various articles is a fantastic way to grow.
+- 💬 Discussion Topics: I’d love to delve into any of these topics with you. Whether it's troubleshooting a tricky piece of React code, discussing the nuances of cloud architecture, or debating the best practices in Node.js, I’m all in.
+- 📫 Contact: You can reach me at mohitmjjain101@gmail.com for more riveting conversations and tech discussions.
